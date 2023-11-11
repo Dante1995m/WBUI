@@ -1,0 +1,48 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "title1": "Welcome to WBUI2!",
+          "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\",0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"1,0,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 3,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+          "title1": "GENERAL RULES",
+          "title2": "BUILDING RULES",
+          "title3": "TRIBE RULES",
+          "text1": "Our admin reserves the right to mute, kick, ban, or wipe any tribe or player found not following our cluster rules without warning or notice. Although we will do our best to notify and warn offenders beforehand, harsh offenses are dealt with swiftly. \n1)    Please keep the chat clean, don’t use any abusive language, don’t be racist, sexist or cause any confrontation with players. we don’t want arguments in public, if you have a problem with another player or with how admins run the server then you discuss it in private. Trolling members of the server is unacceptable and if we feel a member is harassing another player they will be banned from all the servers and Discord. If you feel someone is breaking the rules then please come to an admin in private, DO NOT cause a scene on the server. Please speak English at all times in main chat channels – both in-game and in Discord! \n2)    Respect the admins! Admins are not on the servers to fix your problems, they are here to make sure the servers are running smooth, that people are following the rules and the servers are updated and restarted when needed. They are not there to replace your lost gears and dinos. If you get stuck, try logging off and on again, this will fix 99% of stuck issues. \n3)    Feel free to offer help to new players but remember a lot of the early game is the excitement of building up and learning to play ARK. Please don’t give away high level dinos and gear to new players as this could ruin the enjoyment of the game. \n4) Do not ask for free items, you are allowed to ask for help and information but not items and dinos. And players that become a hindering to others will be band and deleted.",
+          "text2": "1)    Only 1 bases per tribe (+1 water base). A base consists of floor, walls, door, roof and a bed, this can be just one foundation big. \n2)    Members MUST! remove any taming pens and temporary bases once finished with them. If you accidentally leave a taming pen out in the wild and you don’t go back to remove it, admins will destroy tribe structures on it and this will remove everything you own, so it is down to you and your tribe to clean up after yourselves. Admins will not be held responsible. \n3)    When building bases you must think about other people and respect that this server is not just for you, we are a community and we share this with many other people who are all following the rules. Think about any resources you might be blocking from people. Is your base stopping people getting past? Are you stopping another player from expanding?. If you are within render distance of another base you are best moving or asking the owner of the base if you are ok to build there. Please don’t ask admins if you are ok building near someone’s base. If you feel you might be too close then you most likely are.  NOTE: Render distance is measured using ‘Medium Render Distance’. \n4)    DO NOT block player spawn locations. \n5)    Claiming land is strictly forbidden, you must not under any circumstance place pillars, foundations, or any other structures down to claim land. If you want to build somewhere please build a house with a bed inside (floor, walls, door & roof – can be just one foundation big). If we see any land claiming we will destroy the tribe structures.",
+          "text3": "1)    Make sure if you decide to join a tribe you MERGE the tribe. Don’t leave your tribe to join another tribe as you will loose all your dinos and structures. You must select the option to merge tribes. If you leave your tribe and join another this is at your own risk and admins wont always be there to assist. \n2)    Do not use offensive or racist names for your character, tribe, dinos or anything else. This is not acceptable and any dino found to have an offensive name will be destroyed by admins without warning!",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Discord",
+          "url": "https://discord.gg/pRj4jaZExx"
+        }
+      }
+    ]
+  }
+}
